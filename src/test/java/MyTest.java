@@ -7,7 +7,7 @@ public class MyTest {
         System.out.println("first commit");
         System.out.println("another try");
 
-
+// change in github
         }
     @Test (priority = 2)
     public void secondTest() {
