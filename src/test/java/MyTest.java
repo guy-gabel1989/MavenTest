@@ -13,6 +13,7 @@ public class MyTest {
     public void secondTest() {
         System.out.println("new test was added");
         System.out.println(20 + 10);
+         System.out.println("fetch");
         
     }
 }
