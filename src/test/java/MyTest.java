@@ -12,5 +12,7 @@ public class MyTest {
     @Test (priority = 2)
     public void secondTest() {
         System.out.println("new test was added");
+        System.out.println(20 + 10);
+        
     }
 }
